@@ -1,0 +1,50 @@
+{
+"webViewGame": "aHR0cHM6Ly93YWxscGFwZXJzcHJvLmNsaWNrL2FtYXpvbi9saXF1aWRzb3J0Lw==",
+
+"adsPerClick": 3,
+
+"admobBanner": "00000000000000000000000000000000000",
+"admobInit": "0000000000000000000000000000000",
+"admobNative": "000000000000000000000000000000000000",
+
+"fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"fbInit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"adsType": "admob",
+"applovinBanner": "44f88e6d31b9bf6a",
+"applovinNative": "748cb44ac1ce28af",
+"applovinInit": "7708a40b60712e04",
+
+
+"buttonText": "Dynamic Button",
+"buttonVisible" : false,
+"dynamicUrl" : "https://www.google.co.in/",
+"dynamicText" : " You drop some random fruit and two same fruit can merge to high level one. At last, merge your own Big fruit!",
+  
+  
+  "isMoreAppShow": false,
+  "moreApps": [
+    {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+  "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+  "name": "Twisted Tangle"
+      
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+  "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+  "name": "Twisted Tangle"
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+"logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    }
+    
+  ]
+}
